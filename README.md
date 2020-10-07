@@ -15,7 +15,7 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/anuraghazra/github-readme-stats)
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTLogos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,4 +27,4 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 [email](mailto:tyan@zju.edu.cn).
 
 
-欢迎大家关注我的个人[博客](https://taoyan.netlify.app)
+🙂 欢迎大家关注我的个人[博客](https://taoyan.netlify.app)
