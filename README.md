@@ -22,6 +22,4 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 💬 Ask me anything
 [here](https://github.com/YTLogos/YTLogos/issues) or by
 [email](mailto:tyan@zju.edu.cn).
-
-😄 If you use Chinese, you can also follow me on
 [博客](https://taoyan.netlify.app)
