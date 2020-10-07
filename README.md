@@ -6,18 +6,18 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YTLogos&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YTLogos&show_icons=true&theme=synthwave)](https://github.com/YTLogos/YTLogos)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=Bna_GWAS_Cloud)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/YTLogos/BnaSNPDB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=Bna_GWAS_Cloud)](https://github.com/YTLogos/Bna_GWAS_Cloud)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/YTLogos/TaoYan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/YTLogos/ttplot)
 
 
 > NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTLogos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTLogos&layout=compact)](https://github.com/YTLogos)
 
 
 ### Contact me
