@@ -1,7 +1,6 @@
 ### Hi there, I'm [TaoYan!](https://taoyan.netlify.app) 👋
 
 <br />
-<br />
 
 I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Crop Genetics and Breeding at the @Zhejiang University Crop Science Lab. 🌱  My Ph.D research work covers a range of issues : Population Genetics Evolution and Ecotype Divergence Analysis of oilseed Rape, Genome-wide Association Study (GWAS) of Agronomic Traits. Currently, I am interested in Transposable Elements Insertion Polymorphisms (TIPs) in Crop Population and genetic basis such as SV, CNV and TIPs etc shapes the diversity of different morphotypes of *B.napus*.
 
