@@ -10,7 +10,7 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/YTLogos/BnaSNPDB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=Bna_GWAS_Cloud)](https://github.com/YTLogos/BnaGWAS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaGWAS)](https://github.com/YTLogos/BnaGWAS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/YTLogos/TaoYan)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/YTLogos/ttplot)
 
